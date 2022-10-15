@@ -1,0 +1,10 @@
+C:\Users\aicha\Desktop\monitoringDll\MonitoringDll\bin\Debug\MonitoringDll.dll
+C:\Users\aicha\Desktop\monitoringDll\MonitoringDll\bin\Debug\MonitoringDll.pdb
+C:\Users\aicha\Desktop\monitoringDll\MonitoringDll\obj\Debug\MonitoringDll.csproj.AssemblyReference.cache
+C:\Users\aicha\Desktop\monitoringDll\MonitoringDll\obj\Debug\MonitoringDll.csproj.CoreCompileInputs.cache
+C:\Users\aicha\Desktop\monitoringDll\MonitoringDll\obj\Debug\MonitoringDll.dll
+C:\Users\aicha\Desktop\monitoringDll\MonitoringDll\obj\Debug\MonitoringDll.pdb
+C:\Users\aicha\Desktop\Monitoring\monitoringDll\MonitoringDll\obj\Debug\MonitoringDll.csproj.AssemblyReference.cache
+C:\Users\aicha\Desktop\Monitoring\monitoringDll\MonitoringDll\obj\Debug\MonitoringDll.csproj.CoreCompileInputs.cache
+C:\Users\aicha\Desktop\Monitoring\monitoringDll\MonitoringDll\obj\Debug\MonitoringDll.dll
+C:\Users\aicha\Desktop\Monitoring\monitoringDll\MonitoringDll\obj\Debug\MonitoringDll.pdb
